@@ -5,7 +5,7 @@ format: html
 editor: visual
 ---
 
-## **8/29/25**
+## **8/29/25 (#1)**
 
 Find area of a circle with radius 5 cm.
 
@@ -24,6 +24,34 @@ circle_area <- area_of_circle(radius)
 cat("The area of the circle with radius", radius, "is", circle_area, "\n")
 ```
 
+![](Downloads/Rstudio/EpiTriad.png)
+
 ![](Downloads/EpiTriad.png){fig-align="center"}
 
 The epidemiological triad is a diagram demonstrating the connection between a pathogen, host, and the environment. The basic epidemiological triad is a very simplified version of the interactions that happen between pathogen, host, and environment. There can be several hosts involved or infection of multiple pathogens present or other complex interactions.
+
+------------------------------------------------------------------------
+
+### 9/19/25 (#2)
+
+![](Downloads/Rstudio/ss_table.png)
+
+1\) Find the sample size necessary to detect a disease at or above 5% prevalence in a herd of 5000 deer. The desired level of confidence is 95%.
+
+The sample size necessary to detect a disease at or above 5% prevalence in a herd of 5000 deer at a confidence level of 95% is 59 deer.
+
+2\) Using the hypergeometric distribution, compare the sample size requirements for the following scenarios:
+
+a\) 95% confidence in detecting a disease at 1% prevalence in a large population
+
+The sample size necessary to detect a disease at 1% prevalence in a large population ("infinite") at a confidence level of 95% is 299.
+
+b\) 99% confidence in detecting a disease at 2% prevalence in a large population
+
+The sample size necessary to detect a disease at 2% prevalence in a large population ("infinite") at a confidence level of 99% is 229.
+
+The sample size required for 2b is smaller than the sample size required for 2a. Since the confidence interval increases, the required sample size for 2b is more than the sample size required for an infinite population at 2% prevalence at 95% confidence but less than the required sample size for 2a. A similar observation can be made for 2a. 2a asks about a 1% prevalence at a lesser confidence level of 95% instead of 99%, so the sample size requirement for 2a is more than the required sample size for 2b but less than the sample size required for 1% prevalence at 99% confidence with an infinite population size.
+
+3\) You sample 300 deer from a high fenced facility that has a herd of 4000. None of the 300 deer have antibodies against Epizootic Hemorrhagic Disease. Based on this finding, you are 95% confident that the prevalence of exposure to EHD in this facility is \_\_\<(less than)\_\_ (\<, =, \>) \_1\_%.
+
+------------------------------------------------------------------------
