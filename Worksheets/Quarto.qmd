@@ -55,3 +55,82 @@ The sample size required for 2b is smaller than the sample size required for 2a.
 3\) You sample 300 deer from a high fenced facility that has a herd of 4000. None of the 300 deer have antibodies against Epizootic Hemorrhagic Disease. Based on this finding, you are 95% confident that the prevalence of exposure to EHD in this facility is \_\_\<(less than)\_\_ (\<, =, \>) \_1\_%.
 
 ------------------------------------------------------------------------
+
+### 10//25 (#3)
+
+Jan’s research focused on an elk herd housed in an exclosure. The herd size is 56. Her\
+data shows that an outbreak of conjunctivitis started on 10th June 2025. She\
+meticulously documented the progress of the outbreak in this herd. Her observations of\
+affected elk are as follows:\
+![](Downloads/Rstudio/IPtable.png)\
+Recovered elk are immune (not susceptible) to conjunctivitis for 6 months. There were\
+no infected elk in the herd after 06/16/25. Show your work.
+
+a\) Find incidence on day 06/12/25, 06/14/25 and 06/15/25. Write the unit for incidence.
+
+6/12/25: 5/51 = 0.098 cases per elk-day
+
+6/14/25: 2/44 = 0.045 cases per elk-day
+
+6/15/25: 0 cases per elk-day
+
+\
+b) What is the prevalence of conjunctivitis on 06/13/25 and 06/16/25? What is the unit for prevalence.
+
+6/13/25: 12/56 = 21.4% prevalence of conjunctivitis
+
+6/16/25: 5/56 = 8.9% prevalence of conjunctivitis
+
+\
+c) On which day is the prevalence same as the incidence (except the units)?
+
+**6/10/25**
+
+Incidence: 1/56 = 0.018
+
+Prevalence: 1/56 = 0.018
+
+**6/11/25**
+
+Incidence: 4/55 = 0.072
+
+Prevalence: 5/56 = 0.089
+
+**6/12/25**
+
+Incidence: 5/51 = 0.098
+
+Prevalence: 10/56 = 0.179
+
+**6/13/25**
+
+Incidence: 2/46 = 0.043
+
+Prevalence: 12/56 = 0.214
+
+**6/14/25**
+
+Incidence: 2/44 = 0.045
+
+Prevalence: 11/56 = 0.196
+
+**6/15/25:**
+
+Incidence: 0 cases per elk-day
+
+Prevalence: 8/56 = 0.142
+
+**6/16/25:**
+
+Incidence: 0 cases per elk-day
+
+Prevalence: 5/56 = 0.089
+
+Prevalence is the same as incidence on 6/10/25.
+
+\
+d) On which day is the incidence lowest?
+
+Incidence is the lowest on 6/15/25 and 6/16/25 because there are no new cases of disease recorded among the elk.
+
+------------------------------------------------------------------------
