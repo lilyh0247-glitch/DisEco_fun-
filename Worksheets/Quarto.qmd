@@ -134,3 +134,11 @@ d) On which day is the incidence lowest?
 Incidence is the lowest on 6/15/25 and 6/16/25 because there are no new cases of disease recorded among the elk.
 
 ------------------------------------------------------------------------
+
+### 10/8/25 - Tick Lab
+
+In lab today, we learned the basics for how to identify ticks under a microscope. The first steps of identification involve determining the life-stage and sex of the tick. To determine the life-stage, first, determine the number of legs with 6 legs indicating a larvae stage and with 8 legs indicating a nymph or an adult stage. If the tick has 8 legs, you can determine whether the tick is an adult if there is the presence of a genital hole. To determine the sex, observe the scutum of the tick. A conscutum, which I learned in lab looks sort of shiny, indicates a male tick. An alloscutum indicates a female tick because it means the tick can engorge on a blood meal. I learned from lecture and lab that only female ticks engorge on blood meals.
+
+The next steps of basic tick identification are determining the genus and species. To determine the genus, observe the orientation of the anal groove. The *Ixodes* genus will have an anterior anal groove while other genua will have a posterior anal groove. Lab helped clarify that all the ticks have that half-circle structure under the anal groove which then made the anal groove easier to identify. Next, observe the mouth parts and pattern of the tick to determine the species. Using our key in lab, we determined the final tick we looked at was a lone-star tick.
+
+------------------------------------------------------------------------
