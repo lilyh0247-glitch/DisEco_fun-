@@ -56,7 +56,7 @@ The sample size required for 2b is smaller than the sample size required for 2a.
 
 ------------------------------------------------------------------------
 
-### 10//25 (#3)
+### 10/6/25 (#3)
 
 Jan’s research focused on an elk herd housed in an exclosure. The herd size is 56. Her\
 data shows that an outbreak of conjunctivitis started on 10th June 2025. She\
@@ -164,5 +164,44 @@ I calculated R0 by adding the susceptible blue flamingos that were infected (1+3
 A mass mortality event (MME) of Saiga antelope in 2015 was caused by a bacteria that is naturally occurring within the population. Research after the MME found that there was a slightly higher temperature and humidity during the birthing season. The elevated temperature and humidity was found to be present in past MMEs in Saiga antelope within the literature as well. The change in environment along with other factors like stress of birthing are thought to cause the bacteria to become pathogenic and result in thousands of still births.
 
 In this case specifically, we cannot intervene on weather and climate within the environmental component of the epidemiological triad. We can intervene within the setting environment or the host and the pathogen to minimize factors that may contribute to a mass mortality event. We could monitor the environment and pathogens within the population to aniticipate abnormalities within the birthing setting of Saiga antelope (surveillance) and minimize the contact of Saiga antelope with livestock or other stressors. In a broader conservation context, I would suggest potentially designating and maintaining land for the birthing period of Saiga antelope with well maintained environment to potentially offset the influence of differences of weather/climate.
+
+------------------------------------------------------------------------
+
+### 10/18/25 (#4)
+
+[**MERS-CoV**]{.underline}\
+Middle East respiratory syndrome coronavirus (MERS-CoV) is mostly found in camels\
+(dromedaries), and direct physical contact with camels can lead to transmission to\
+humans. Limited human-to-human transmission can occur after close contact and has\
+resulted in health care–associated outbreaks. Human MERS-CoV infection can cause\
+severe respiratory illness; approximately 35% of reported MERS cases have died.\
+Distribution of confirmed cases of MERS by place of infection and month of onset, April\
+2012 – September 2025 (European Centre for Disease Prevention and Control)
+
+![](Downloads/Rstudio/Screenshot 2025-10-18 at 4.16.16 PM.png)\
+**Which of the following statements about MERS-CoV are correct? (If it is incorrect,\
+provide an explanation why the statement is incorrect.)**
+
+\
+[1. MERS-CoV is primarily maintained in human populations. (2 points)]{.underline}
+
+False. MERS-CoV is primarily maintained within the reservoir host species of camels, but humans can be infected with the virus and transmit the virus to other susceptible humans.
+
+[2. Camels serve as the main animal reservoir for MERS-CoV. (2 points)]{.underline}
+
+True. MERS-CoV is a coronavirus that circulates mainly in the Middle East within camels, although the virus can infect humans as well.
+
+[3. Humans are dead-end hosts for MERS-CoV. (2 points)]{.underline}
+
+False. MERS-CoV can infect humans, but the virus can only complete short infection chains. The pathogen can invade the target population (in this case humans) but cannot persist.
+
+[4. The estimated case fatality rate for human MERS-CoV infections is approximately\
+65%. (2 points)]{.underline}
+
+False. Although the case fatality rate for MERS-CoV may be higher due to lack of report or other reasons, only approximately 35% of human MERS cases have died due to the disease.
+
+[5. The epidemic curve indicates this is a point source outbreak. (2 points)]{.underline}
+
+False. If the epidemic curve indicated a point source outbreak, the curve would show one peak indicating an influx of cases due to a single exposure event, but the cases would steadily drop after the initial exposure/influx of cases. Here we see a propagated source where animals are infecting humans and some humans are infecting other humans, although cases do decrease significantly in this epidemic curve after 2020.
 
 ------------------------------------------------------------------------
