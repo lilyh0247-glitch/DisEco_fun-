@@ -143,9 +143,9 @@ The next steps of basic tick identification are determining the genus and specie
 
 ------------------------------------------------------------------------
 
-### Exam Remediation (10/15/25)
+### Exam Remediation (10/15/25) - Addendum 10/22/25
 
-**Question #1 (Question 9 on the exam)**
+**Question #1 (Question 9 on the exam) - 10 points total**
 
 1.  **one red infected flamingo infects [one]{.underline} blue susceptible flamingo**
 
@@ -157,13 +157,15 @@ The next steps of basic tick identification are determining the genus and specie
 
 **Define R0:** R0 is the average number of susceptible hosts infected by a single case within a fully susceptible population
 
-I calculated R0 by adding the susceptible blue flamingos that were infected (1+3+2+0=6) and dividing it by the number of cases (4), and 6 divided by 4 is 1.5. Given the following scenario with flamingos from Question 9, R0 is 1.5, meaning that one case infects on average 1.5 susceptible individuals. In the real world, a single case can infect one or two or three (and so on) susceptible individuals like the scenario given. R0 is just the average number of susceptible organisms infected by a single case. In this scenario, the average is 1.5. In the real world, an infected individual will pass on the disease to 1-2 susceptible individuals.
+I calculated R0 by adding the susceptible blue flamingos that were infected (1+3+2+0=6) and dividing it by the number of cases (4), and 6 divided by 4 is 1.5. Given the following scenario with flamingos from Question 9, R0 is 1.5, meaning that one case infects on average 1.5 susceptible individuals. A single case can infect one or two or three (and so on) susceptible individuals like the scenario given. R0 is just the average number of susceptible organisms infected by a single case. In this scenario, the average is 1.5. In the real world, an infected individual will pass on the disease to 1-2 susceptible individuals.
+
+10/22/25 - When R0 is less than 1, on average, each infected individual causes less than one new infection, so a disease will decline naturally within a population. When R0 is equal to 1, an infected individual causes an additional infection/case, so a disease will be sustained within a population at an endemic level. When R0 is greater than 1, one infected individuals causes more than one new infection, so there is a greater risk of a disease causing outbreaks or having epidemic potential.
 
 **Question #2 (Question 7 on the exam)**
 
 A mass mortality event (MME) of Saiga antelope in 2015 was caused by a bacteria that is naturally occurring within the population. Research after the MME found that there was a slightly higher temperature and humidity during the birthing season. The elevated temperature and humidity was found to be present in past MMEs in Saiga antelope within the literature as well. The change in environment along with other factors like stress of birthing are thought to cause the bacteria to become pathogenic and result in thousands of still births.
 
-In this case specifically, we cannot intervene on weather and climate within the environmental component of the epidemiological triad. We can intervene within the setting environment or the host and the pathogen to minimize factors that may contribute to a mass mortality event. We could monitor the environment and pathogens within the population to aniticipate abnormalities within the birthing setting of Saiga antelope (surveillance) and minimize the contact of Saiga antelope with livestock or other stressors. In a broader conservation context, I would suggest potentially designating and maintaining land for the birthing period of Saiga antelope with well maintained environment to potentially offset the influence of differences of weather/climate.
+10/22/25 - We can intervene within the setting environment, the host and the pathogen to minimize factors that may contribute to a mass mortality event or reduce affects of MME. We could set regulations applied to land use or agricultural behaviors to minimize the contact of Saiga antelope with livestock to reduce competition of resources and risk of pathogen exchange/mixing. We could improve implementation and enforcement of poaching. These interventions maintain the general population as well as the female birthing population of the Saiga antelope which allows for greater resilience within a Saiga antelope herd. In a broader conservation context, I would suggest potentially designating and maintaining land for the birthing period of Saiga antelope with well maintained environment to potentially offset the influence of differences of weather/climate. We have discussed the difficulty of wildlife vaccination. However, lab research of the bacteria under conditions which make it pathogenic may allow for development of a vaccine that has long-term immunity where we can gradual vaccination among the Saiga antelope population during months not in the birthing season.
 
 ------------------------------------------------------------------------
 
@@ -178,7 +180,7 @@ severe respiratory illness; approximately 35% of reported MERS cases have died.\
 Distribution of confirmed cases of MERS by place of infection and month of onset, April\
 2012 – September 2025 (European Centre for Disease Prevention and Control)
 
-![](Downloads/Rstudio/Screenshot 2025-10-18 at 4.16.16 PM.png)\
+![](Downloads/Rstudio/MERS.png)\
 **Which of the following statements about MERS-CoV are correct? (If it is incorrect,\
 provide an explanation why the statement is incorrect.)**
 
