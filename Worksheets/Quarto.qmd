@@ -207,3 +207,20 @@ False. Although the case fatality rate for MERS-CoV may be higher due to lack of
 False. If the epidemic curve indicated a point source outbreak, the curve would show one peak indicating an influx of cases due to a single exposure event, but the cases would steadily drop after the initial exposure/influx of cases. Here we see a propagated source where animals are infecting humans and some humans are infecting other humans, although cases do decrease significantly in this epidemic curve after 2020.
 
 ------------------------------------------------------------------------
+
+### 10//25 (#5)
+
+[Marburg Virus Outbreak, Rwanda 2024]{.underline}\
+The first person to become infected in the current Marburg virus outbreak in Rwanda\
+probably contracted the disease during a visit to a cave with Egyptian rousette bats/fruit\
+bats that are known reservoir of Marburg virus. As of 19 December 2024, 66 cases of\
+Marburg virus infection were documented, and most of the people infected were health\
+care workers, mainly those who worked in intensive care units.\
+**1. Using the community epidemiology framework developed by Fenton and Pedersen, would you classify this Marburg virus outbreak as a spillover event or an emerging infectious disease? Justify your classification.**
+
+I would classify this Marburg virus outbreak as an emerging infectious disease. The between-species transmission is relatively low given incidental contact with the reservoir bats. However, the within-species transmission within humans is relatively high between healthcare workers or others within exposed settings. This dynamic fits the potential emerging infectious disease (case 4) description from the community epidemiology framework developed by Fenton and Pedersen. Given the transmission between humans, the outbreak is not just spillover. A spillover event usually has humans as a deadend host with the disease not being able to sustain long-term outside of the reservoir host species.\
+**2. What measures could be implemented to reduce the risk of transmission in both community and healthcare settings?**
+
+In order to protect the community, isolation needs to be mandatory for known Marburg cases. There might also be isolation for highly probable suspected cases. Isolation does put healthcare workers and possibly other patients within related facilities at risk of exposure and infection. This exposure and infection can be mitigated by having strict personal protective equipment (PPE) standards, negative pressure rooming (if resources allow) and strict disinfection and sterilization standards. Some other simultaneous measures to reduce risk could be safe waste management, safe burial and body management, and caving restrictions or certification.
+
+------------------------------------------------------------------------
