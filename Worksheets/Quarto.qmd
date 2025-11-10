@@ -224,3 +224,25 @@ I would classify this Marburg virus outbreak as an emerging infectious disease. 
 In order to protect the community, isolation needs to be mandatory for known Marburg cases. There might also be isolation for highly probable suspected cases. Isolation does put healthcare workers and possibly other patients within related facilities at risk of exposure and infection. This exposure and infection can be mitigated by having strict personal protective equipment (PPE) standards, negative pressure rooming (if resources allow) and strict disinfection and sterilization standards. Some other simultaneous measures to reduce risk could be safe waste management, safe burial and body management, and caving restrictions or certification.
 
 ------------------------------------------------------------------------
+
+### 11/9/25 (#6)
+
+Pond 1
+
+-   Prevalence (%): 30.0%
+
+-   95% CI (%): lower 14.0%, upper 52.5%
+
+Pond 2
+
+-   Prevalence (%): 6.7%
+
+-   95% CI (%): lower 0.3%, upper 30.2%
+
+Comparison
+
+-   Fisher's exact test p-value: 0.1987
+
+-   Statistically significant?: The prevalence values between the two ponds are not statistically significant at a p-value of 0.1987 because the p-value is statistically significant at a value of 0.05 or less.
+
+------------------------------------------------------------------------
