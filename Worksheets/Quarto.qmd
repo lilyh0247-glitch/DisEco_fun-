@@ -208,7 +208,7 @@ False. If the epidemic curve indicated a point source outbreak, the curve would 
 
 ------------------------------------------------------------------------
 
-### 10//25 (#5)
+### 10/29/25 (#5)
 
 [Marburg Virus Outbreak, Rwanda 2024]{.underline}\
 The first person to become infected in the current Marburg virus outbreak in Rwanda\
@@ -244,5 +244,45 @@ Comparison
 -   Fisher's exact test p-value: 0.1987
 
 -   Statistically significant?: The prevalence values between the two ponds are not statistically significant at a p-value of 0.1987 because the p-value is statistically significant at a value of 0.05 or less.
+
+------------------------------------------------------------------------
+
+### 11/14/15 (#7)
+
+[**Nipah Virus**]{.underline}\
+Nipah virus ecology varies across regions, resulting in distinct patterns of transmission\
+in places like Malaysia and Bangladesh. Describe how the modes of transmission differ\
+between these two regions and explain how these differences influence the preventive\
+measures recommended in each setting. (8 points)
+
+Nipah virus ecology varies across Southeast and South Asia. For example, Nipah virus is mainly transmitted through pig bridge hosts in Malaysia. Pigs will get Nipah virus from bats or fruit contaminated with bat excretions, and humans mainly get the virus from infected pigs in Malaysia. However, humans often get infected with Nipah virus through contaminated date palm sap in Bangladesh. Buckets collecting sap will become contaminated with bat excretions, and humans become infected from consuming raw sap.
+
+These differences in transmission call for different preventative measures. Since most of the cases in Malaysia are from contact with infected pigs, early detection and surveillance of the disease is a possible preventative measure that is plausible with the route of transmission observed. In Bangladesh, there are a few more preventative options. Many infections come from consuming raw sap, so heating/cooking the sap prior to consumption is a precautionary action in addition to just avoiding raw date palm sap. There are also some covers or lids being used with some sap collection which prevents bat excretions from entering the sap during collection.
+
+\
+[**Avian Reovirus**]{.underline}\
+Avian reoviruses (ARV) can be transmitted through multiple routes. Describe the\
+different transmission routes of ARV and explain which environmental factors favor its\
+transmission. What pathogen characteristics support one of these transmission routes?\
+Finally, provide an example of a wild bird disease caused by ARV and briefly describe\
+its impact on the affected population. (6 points)
+
+Avian reoviruses (ARV) can be transmitted horizontally through fecal-oral transmission or vertically from the mother. Most cases are thought to be a result from fecal-oral transmission often as a consequence of vertical transmission. For example, a congenitally infected chick spreads the disease within a flock through the fecal-oral route. Fecal-oral transmission is enabled by poor hygiene, overcrowding, and poor ventilation. The pathogen itself is also resilient and persistent for weeks within the environment or on surfaces which further supports fecal-oral transmission.
+
+ARV causes arthritis and tenosynovitis (swollen tendon) in commercial chickens and wild birds. These diseases cause lameness and swollen joints. In wild bird populations, these illnesses caused by ARV decrease the ability to or prevent escape from predators or foraging for food. Predation on sick wild birds can result in death, but illness in commercial chickens can also result in death based on decisions of product value and treatment costs.
+
+\
+[**Langya henipavirus**]{.underline}\
+Langya henipavirus (LayV) is an emerging zoonotic virus first identified in China.\
+Describe the likely reservoir and transmission route of Langya virus. Why is LayV\
+classified as a spillover and not a potential EID? (6 points)
+
+Based on some surveillance testing of wildlife within the Shandong and Henan provinces where cases were observed, the likely reservoir for LayV is shrews. Most of the cases were farmers or had frequent wildlife exposure, and shrews are widely present in these rural areas in China. LayV is thought to be transmitted through direct or indirect contact with shrews and their bodily fluids.
+
+LayV is not classified as a potential emerging infectious (EID) disease because the virus does not have confirmed human-to-human transmission. A potential EID has the ability to infect another species, namely humans, and sustain infection within that population/humans. There have not been additional cases since the outbreak from 2018-2022. LayV is a spillover because the disease can infect other species (humans) besides the reservoir species, but the virus has not proven to sustain itself within the other species. (see Fenton and Pedersen community epidemiology framework)
+
+------------------------------------------------------------------------
+
+### 11//25 (#8)
 
 ------------------------------------------------------------------------
