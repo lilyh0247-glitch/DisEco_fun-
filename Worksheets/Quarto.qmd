@@ -283,6 +283,72 @@ LayV is not classified as a potential emerging infectious (EID) disease because 
 
 ------------------------------------------------------------------------
 
-### 11//25 (#8)
+### 11/18/25 (#8)
+
+Overall, there is a significant difference between prevalence of raccoon roundworm in the three regions. When analyzed comparatively in pairs, there is a significant difference in the prevalence between the central region and north region (p-value=0.0256) as well as the central region and south region (p-value=0.0015), but there is not a significant difference just comparing the north and south (p-value=1). Regional differences suggest that there could be regional variation of raccoon density or environmental prescence and persistence of raccoon roundworm eggs. The central and south regions may have more or better established raccoon latrines.
+
+When comparing sex of the raccoons, there was a significant difference between the prevalence of raccoon roundworm in females compared to males (p-value=0.0087). When comparing males and females in each region, the prevalence within females was only significant in the south region (p-value=0.0030); however, the data is potentially suggestive of a difference between females and males in the central region with a p-value of 0.0859. Greater prevalence within females may suggest social or reproductive behavioral differences that put females in greater contact with contaminated environments or raccoon latrines. There may also be physiological factors at play like reproductive stress.
+
+There was not a significant difference for prevalence of raccoon roundworm in adults compared to young adults (p-value=0.2206). Also, there was no significant difference observed for the prevalence of raccoon roundworm between age classes within each region. The regional and sexual differences observed call for more research into the ecological, population, and geographic differences that may be driving these differences. The south region may need the most immediate attention because the region seems to pose the most environmental risk to children, domestic animals, and other wildlife based on the data.
+
+*See data analysis below.*
+
+-----
+
+[**Regions**]{.underline}
+
+Central: 9 of 14 infected, prevalence 64.3%, lower 37.1%, upper 84.7%
+
+North: 14 of 49 infected, prevalence 28.6%, lower 17.0%, upper 42.8%
+
+South: 27 of 43 infected, prevalence 62.8%, lower 47.7%, upper 75.9%
+
+Fisher's exact test p-value (central and north): 0.0256
+
+Fisher's exact test p-value (central and south): 0.0015
+
+Fisher's exact test p-value (north and south): 1.0
+
+Fisher's exact test p-value (regions): 0.0016
+
+-----
+
+[**Sex**]{.underline}
+
+Female: 24 of 37 infected, prevalence 64.9%, lower 48.6%, upper 78.6%
+
+Male: 26 of 69 infected, prevalence 37.7%, lower 26.7%, upper 50.0%
+
+Fisher's exact test p-value (sex): 0.0087
+
+-----
+
+[**Age Class**]{.underline}
+
+Adult: 36 of 69 infected, prevalence 52.2%, lower 40.4%, upper 63.8%
+
+Young Adult: 14 of 37 infected, prevalence 37.8%, lower 23.4%, upper 54.1%
+
+Fisher's exact test p-value (age): 0.2206
+
+-----
+
+[**Sex in each Region**]{.underline}
+
+Fisher's exact test p-value (central region, sex): 0.0859; central females 100% prevalence (5 of 5), central males 44.4% prevalence (4 of 9)
+
+Fisher's exact test p-value (north region, sex): 0.2219; north females 38.1% prevalence (8 of 21), north males 21.4% prevalence (6 of 28)
+
+Fisher's exact test p-value (south region, sex): 0.0030; south females 100% prevalence (11 of 11), south males 50.0% prevalence (16 of 32)
+
+-----
+
+[**Age Class in each Region**]{.underline}
+
+Fisher's exact test p-value (central region, age): 1.0; central adults 61.5% prevalence (8 of 13), central young adults 100% prevalence (1 of 1)
+
+Fisher's exact test p-value (north region, age): 1.0; north adults 28.0% prevalence (7 of 25), north young adults 29.2% prevalence (7 of 24)
+
+Fisher's exact test p-value (south region, age): 0.3126; south adults 67.7% prevalence (21 of 31), south young adults 50.0% prevalence (6 of 12)
 
 ------------------------------------------------------------------------
