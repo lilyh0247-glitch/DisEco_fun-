@@ -293,8 +293,6 @@ There was not a significant difference for prevalence of raccoon roundworm in ad
 
 *See data analysis below.*
 
------
-
 [**Regions**]{.underline}
 
 Central: 9 of 14 infected, prevalence 64.3%, lower 37.1%, upper 84.7%
@@ -311,8 +309,6 @@ Fisher's exact test p-value (north and south): 1.0
 
 Fisher's exact test p-value (regions): 0.0016
 
------
-
 [**Sex**]{.underline}
 
 Female: 24 of 37 infected, prevalence 64.9%, lower 48.6%, upper 78.6%
@@ -320,8 +316,6 @@ Female: 24 of 37 infected, prevalence 64.9%, lower 48.6%, upper 78.6%
 Male: 26 of 69 infected, prevalence 37.7%, lower 26.7%, upper 50.0%
 
 Fisher's exact test p-value (sex): 0.0087
-
------
 
 [**Age Class**]{.underline}
 
@@ -331,8 +325,6 @@ Young Adult: 14 of 37 infected, prevalence 37.8%, lower 23.4%, upper 54.1%
 
 Fisher's exact test p-value (age): 0.2206
 
------
-
 [**Sex in each Region**]{.underline}
 
 Fisher's exact test p-value (central region, sex): 0.0859; central females 100% prevalence (5 of 5), central males 44.4% prevalence (4 of 9)
@@ -340,8 +332,6 @@ Fisher's exact test p-value (central region, sex): 0.0859; central females 100% 
 Fisher's exact test p-value (north region, sex): 0.2219; north females 38.1% prevalence (8 of 21), north males 21.4% prevalence (6 of 28)
 
 Fisher's exact test p-value (south region, sex): 0.0030; south females 100% prevalence (11 of 11), south males 50.0% prevalence (16 of 32)
-
------
 
 [**Age Class in each Region**]{.underline}
 
@@ -352,3 +342,63 @@ Fisher's exact test p-value (north region, age): 1.0; north adults 28.0% prevale
 Fisher's exact test p-value (south region, age): 0.3126; south adults 67.7% prevalence (21 of 31), south young adults 50.0% prevalence (6 of 12)
 
 ------------------------------------------------------------------------
+
+### 11/22/25 (#9)
+
+-   In 2024, a multistate Salmonella outbreak was linked to backyard poultry flocks in\
+    the United States. What specific human behaviors contributed to the zoonotic\
+    spread of Salmonella? In your response, identify at least three practices by backyard\
+    poultry owners that increased the risk of Salmonella transmission, and briefly explain\
+    why these behaviors facilitated human infection. 10 points
+
+    Backyard poultry owners have more a more pet-like relationship with their flocks than commercial poultry owners. Backyard poultry owners have increased direct contact from directly handling the birds or from cuddling/playing with the birds as pets. Direct contact is one of the ways that bacteria like Salmonella enterica can be contracted, so increased direct contact increases the risk for infection.
+
+    Backyard poultry owners often allow children to handle poultry, sometimes unsupervised. Increased direct contact is also true for kids. Kids will play with the birds and are more likely to put there hand in their mouth or something without washing their hands. Direct contact with the birds puts exposed kids at a higher risk of infection because kids, especially those under 5 years old, have weaker immune systems.
+
+    Backyard poultry owners tend to have less strict biosecurity measures, inconsistent hygiene measures, and non-standardized management of litter and waste. One method of transmission is indirect contact. These practices put owners, children, and neighbors at risk because there is a higher risk of bacteria being present on fomites (e.g. boots, cleaning tools, etc.) and infecting individuals that come in contact with those items. When pathogens are shed into the litter, there is also a chance that particles get aerosolized when the litter is disturbed. There may also be transmission through direct contact with bacteria ridden eggs when there is poor hygiene conditions.
+
+    Sometimes backyard poultry owners allow free range for their flocks. This can cause increased exposure and infection because Salmonella enterica can persist in the environment. The poor management previously discussed in addition to free range movement leads to shedding into the environment where soil or water bodies can become sources of exposure and infection to owners and surrounding individuals as well.
+
+-   Tall fescue grass is commonly infected with a fungal endophyte (Epichloë\
+    coenophiala) that produces ergot alkaloids associated with fescue toxicosis in\
+    grazing livestock.
+
+    -   What advantage does Tall fescue gain from being infected with a fungal\
+        endophyte? 3 points
+
+        Tall fescue grass is more durable and tolerant in stressful conditions when infected with the fungal endophyte. Tall fescue is more resistant to drought and overgrazing with the fungal endophyte, and we saw from picture in the presentation that infected grass appears greener and in better condition than non-infected grass.
+
+    -   What environmental and ecological factors drive the occurrence and severity of\
+        fescue toxicosis in grazing systems? 4 points
+
+        Epichloë coenophiala naturally produces ergot alkaloids, but the fungus has increased production under stressful conditions. Stressors include hot or cold temperatures, drought, overgrazing, and limited soil nutrients. The microbiome in the soil and around tall fescue can also put stress on the plant and fungus whether through competition for soil nutrients or through other unknown mechanisms. Under these stressful conditions the fungus produces more ergot alkaloids which build up within the grass and increases the toxicity of the grass for livestock that are grazing.
+
+    -   What are the key clinical signs of fescue toxicity in cattle? 3 points
+
+        Ergot alkaloids produced by Epichloë coenophiala can cause weight loss, rough/discolored hair coats, reduced milk production, cardiovascular toxicity, and generally poor performance in cattle grazing on infected grass.
+
+------------------------------------------------------------------------
+
+### 11/22/25 (#10)
+
+-   What are the different routes of transmission for African Swine fever? What role do\
+    humans play in the spread and transmission of ASF? 10 points
+
+    African Swine Fever (ASF) can be transmitted through a biological vector (soft ticks), direct contact (pig-to-pig through blood, saliva, or feces), and indirect contact. The virus has environmental persistence which can last months in carcasses and pork products. Humans play a role in indirect transmission by acting as mechanical vectors. Humans transport contaminated material (e.g. equipment, clothes, etc.) between barns which spreads the virus. The expansion of agriculture and pig farming as well as landscape fragmentation increases wildlife contact with domestic pigs. Poor biosecurity, contaminated feeds, and illegal meat trade are other ways humans spread the virus across farms and borders.
+
+-   Describe how co-infection with Koala retrovirus (KoRV) affects the severity,\
+    progression, and management of Chlamydia in koalas. 10 points
+
+    The Koala retrovirus (KoRV) is similar to the human retrovirus HIV as it is an acquired immunodeficiency virus. As KoRV suppresses the immune system, a Koala is more at risk of chlamydia infection and multiple infections. Symptoms of chlamydia (i.e. conjunctival, urinary, and respiratory dieases) are also worse for Koalas with co-infections of KoRV and chlamydia because their immune system is suppressed. More severe symptoms and multiple or continuous chlamydia infection progresses into infertility and mortality. Co-infection can impact the management of the species and efforts to increase the population as it increases infertility and mortality rates of Koalas. Co-infection may also affect the treatment of chlamydia because the suppressed immune system may not be suitable for use of antibiotics or the new vaccine available.
+
+-   Snake Fungal Disease (SFD), caused by Ophidiomyces ophiodiicola, is an emerging\
+    threat to wild snake populations in North America.
+
+    -   What are the key challenges associated with the surveillance and management of\
+        Snake Fungal Disease (SFD)? 10 points
+
+        There are a few key ecological challenges to surveillance and management of Snake Fungal Disease (SFD). One challenge is the accuracy of testing. qPCR is used to test DNA for the presence of the fungus, but there are often false negatives when the presence is low for a specific snake. For example, a snake may be swabbed 5 times with only 1 positive result, so you can imagine a false negative had the area that resulted positive not been swabbed.
+
+        There is also a seasonality of the disease due to snake brumation where testing is difficult because snake activity is low and management is difficult because of lowered immune systems. Wild snake populations are a challenge themselves because wild populations are difficult to sample. The environmental persistence of the fungal spores in soil makes the disease incredibly hard to manage as the spores are difficult to destroy and most snakes travel mostly by land. The spores also get spread and transmitted with humans acting as a mechanical vector because snakes come in contact with boots, equipment, etc. that is contaminated by soil with spores
+
+    ------------------------------------------------------------------------
