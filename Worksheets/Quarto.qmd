@@ -5,7 +5,7 @@ format: html
 editor: visual
 ---
 
-## **8/29/25 (#1)**
+## **Worksheet #1 (8/29/25)**
 
 Find area of a circle with radius 5 cm.
 
@@ -32,7 +32,7 @@ The epidemiological triad is a diagram demonstrating the connection between a pa
 
 ------------------------------------------------------------------------
 
-### 9/19/25 (#2)
+### **Worksheet** #2 (9/19/25)
 
 ![](Downloads/Rstudio/ss_table.png)
 
@@ -56,7 +56,7 @@ The sample size required for 2b is smaller than the sample size required for 2a.
 
 ------------------------------------------------------------------------
 
-### 10/6/25 (#3)
+### **Worksheet** #3 (10/6/25)
 
 Jan’s research focused on an elk herd housed in an exclosure. The herd size is 56. Her\
 data shows that an outbreak of conjunctivitis started on 10th June 2025. She\
@@ -135,7 +135,7 @@ Incidence is the lowest on 6/15/25 and 6/16/25 because there are no new cases of
 
 ------------------------------------------------------------------------
 
-### 10/8/25 - Tick Lab
+### Tick Lab (10/8/25)
 
 In lab today, we learned the basics for how to identify ticks under a microscope. The first steps of identification involve determining the life-stage and sex of the tick. To determine the life-stage, first, determine the number of legs with 6 legs indicating a larvae stage and with 8 legs indicating a nymph or an adult stage. If the tick has 8 legs, you can determine whether the tick is an adult if there is the presence of a genital hole. To determine the sex, observe the scutum of the tick. A conscutum, which I learned in lab looks sort of shiny, indicates a male tick. An alloscutum indicates a female tick because it means the tick can engorge on a blood meal. I learned from lecture and lab that only female ticks engorge on blood meals.
 
@@ -143,7 +143,7 @@ The next steps of basic tick identification are determining the genus and specie
 
 ------------------------------------------------------------------------
 
-### Exam Remediation (10/15/25) - Addendum 10/22/25
+### Exam Remediation (10/15/25) - Addendum (10/22/25)
 
 **Question #1 (Question 9 on the exam) - 10 points total**
 
@@ -169,7 +169,7 @@ A mass mortality event (MME) of Saiga antelope in 2015 was caused by a bacteria 
 
 ------------------------------------------------------------------------
 
-### 10/18/25 (#4)
+### **Worksheet** #4 (10/18/25)
 
 [**MERS-CoV**]{.underline}\
 Middle East respiratory syndrome coronavirus (MERS-CoV) is mostly found in camels\
@@ -208,7 +208,7 @@ False. If the epidemic curve indicated a point source outbreak, the curve would 
 
 ------------------------------------------------------------------------
 
-### 10/29/25 (#5)
+### **Worksheet** #5 (10/29/25)
 
 [Marburg Virus Outbreak, Rwanda 2024]{.underline}\
 The first person to become infected in the current Marburg virus outbreak in Rwanda\
@@ -225,7 +225,7 @@ In order to protect the community, isolation needs to be mandatory for known Mar
 
 ------------------------------------------------------------------------
 
-### 11/9/25 (#6)
+### **Worksheet** #6 (11/9/25)
 
 Pond 1
 
@@ -247,7 +247,7 @@ Comparison
 
 ------------------------------------------------------------------------
 
-### 11/14/15 (#7)
+### **Worksheet** #7 (11/14/15)
 
 [**Nipah Virus**]{.underline}\
 Nipah virus ecology varies across regions, resulting in distinct patterns of transmission\
@@ -283,7 +283,7 @@ LayV is not classified as a potential emerging infectious (EID) disease because 
 
 ------------------------------------------------------------------------
 
-### 11/18/25 (#8)
+### **Worksheet** #8 (11/18/25)
 
 Overall, there is a significant difference between prevalence of raccoon roundworm in the three regions. When analyzed comparatively in pairs, there is a significant difference in the prevalence between the central region and north region (p-value=0.0256) as well as the central region and south region (p-value=0.0015), but there is not a significant difference just comparing the north and south (p-value=1). Regional differences suggest that there could be regional variation of raccoon density or environmental prescence and persistence of raccoon roundworm eggs. The central and south regions may have more or better established raccoon latrines.
 
@@ -343,7 +343,7 @@ Fisher's exact test p-value (south region, age): 0.3126; south adults 67.7% prev
 
 ------------------------------------------------------------------------
 
-### 11/22/25 (#9)
+### **Worksheet** #9 (11/22/25)
 
 -   In 2024, a multistate Salmonella outbreak was linked to backyard poultry flocks in\
     the United States. What specific human behaviors contributed to the zoonotic\
@@ -379,7 +379,7 @@ Fisher's exact test p-value (south region, age): 0.3126; south adults 67.7% prev
 
 ------------------------------------------------------------------------
 
-### 11/22/25 (#10)
+### **Worksheet** #10 (11/22/25)
 
 -   What are the different routes of transmission for African Swine fever? What role do\
     humans play in the spread and transmission of ASF? 10 points
@@ -402,3 +402,195 @@ Fisher's exact test p-value (south region, age): 0.3126; south adults 67.7% prev
         There is also a seasonality of the disease due to snake brumation where testing is difficult because snake activity is low and management is difficult because of lowered immune systems. Wild snake populations are a challenge themselves because wild populations are difficult to sample. The environmental persistence of the fungal spores in soil makes the disease incredibly hard to manage as the spores are difficult to destroy and most snakes travel mostly by land. The spores also get spread and transmitted with humans acting as a mechanical vector because snakes come in contact with boots, equipment, etc. that is contaminated by soil with spores
 
     ------------------------------------------------------------------------
+
+### Final Exam (12/3/25)
+
+Lily Henderson
+
+[1. True or False. If false, explain why the statement is incorrect. (10 points)]{.underline}\
+a. Per the community–epidemiology continuum proposed by Fenton and Pedersen\
+(2005), a disease caused by a pathogen with high between-species transmission and no within–target species transmission will be termed a spillover.
+
+False. A disease caused by a pathogen with high between-species transmission and\
+no within–target species transmission is an apparent multihost pathogen. The pathogen appears to be multihost because of the high between-species transmission, but the pathogen is not a true multihost pathogen because within–target species transmission is not sustained. A spillover is when a pathogen has low between-species transmission and low within–target species transmission.
+
+\
+b. A viral disease that is transmitted to susceptible hosts only by vectors is infectious as well as contagious.
+
+False. Contagious diseases are infectious diseases that spread from person-to-person, so a disease transmitted only by vectors is an infectious disease but not a contagious disease.
+
+\
+c. The eggs of Baylisascaris procyonis can be transmitted to humans by direct contact immediately after excretion by an infected raccoon.
+
+False. Baylisascaris procyonis eggs excreted in raccoon feces become infectious around 2-4 weeks after excretion.
+
+\
+d. A fungus growing on tall fescue leaves is responsible for decreased feed intake in cattle grazing on this grass, resulting in reduced weight gain and lower milk production.
+
+False. Fungal infection in tall fescue grass does result in reduced weight and lower milk production in cattle grazing on the grass but not because of decreased intake. The fungus that infects tall fescue grass produces ergot alkaloids which are toxic. This toxicity from grazing on infected grass causes symptoms like reduced weight and lower milk production.
+
+\
+e. Northern cardinals are considered superspreaders species for West Nile virus.
+
+False. Northern cardinals are considered the supersuppressors species for West Nile virus because cardinals do not produce sufficient viremia to continue the transmission cycle with mosquitoes.
+
+\_\_
+
+2\. List the community-based interventions used for preventing dracunculiasis transmission in endemic regions. Explain how each intervention interrupts specific stages of the Guinea worm life cycle. How have these strategies evolved in recent years given the emergence of animal (particularly dog) infections? (10 points)
+
+One preventative community-based intervention for dracunculiasis is filtration. Drinking pipes or straws have a filter that prevents the ingestion of water fleas infected with larvae. Simple cloth filters are also another filtration method to filter water fleas. These are the simplest most direct methods. Another preventative measure is building boreholes and protected wells with clean drinking water. Safe water sources allow communities to stop relying on stagnant surface water that contains water fleas and larvae. Treating surface water is also an option to target larvae. A big community-based intervention used is health education for behavior change. This includes avoidance of contaminated water, safe disposal of fish entrails, and discouraging bathing of infected persons/animals in communal water.
+
+Education also teaches people about the risk to animals with the emergence of animal infections, specifically dogs. People are taught to possibly tether dogs, to not allow infected dogs to bath in communal water, and to not feed entrails to dogs. Treating drinking water also works for animals, so small water bodies that are known sources of water for dogs may also be treated.
+
+\_\_
+
+3\. Chronic wasting disease (CWD) is an emerging prion disease of cervids and one of the most significant wildlife conservation challenges in North America. What are the main obstacles wildlife agencies face in managing and controlling CWD? (10 points)
+
+There are various challenges to managing and controlling CWD. Surveillance and early detection of the disease is very difficult because CWD has a long incubation period (\>16 months). This makes identifying an outbreak, assessing the spread, and controlling the disease difficult. CWD is a prion disease, and prions persist in the environment. This makes controlling the spread of disease difficult and virtually makes it impossible to "get rid of" the disease once it has been established. Since CWD is a prion disease, there is also no vaccine or treatment because prion diseases are largely still a mystery. CWD is a wildlife disease where management faces a lot of resistance due to political disagreement. Deer hunting in the U.S. is a very big industry with a lot of money at stake. Within that industry there are also fenced deer enclosures that make managing and controlling the disease more difficult because of mixing with wildlife populations (like if a deer escapes) and the amplified spread given larger population densities. Deer are also a species with a large population and wide habitat scope where addressing every member of the population is not possible.
+
+\_\_
+
+4\. You are given data from a closed study population of 60 RFID-tagged armadillos monitored at sampling stations (no capture required). At the start of the study (December 2024) none were infected with Mycobacterium leprae. During the follow-up period, monthly assessments documented the following counts of infected animals in the population:\
+• March 2025: 3 infected\
+• April 2025: 5 infected\
+• May 2025: 5 infected\
+• June 2025: 8 infected\
+• July 2025: 13 infected\
+(No deaths, births, immigration, or recovery occurred during the study.)
+
+a\. Calculate the monthly incidence of M. leprae infection. Show your calculations and state the units. (5 points)
+
+• March: 3/60 = 0.050 cases per armadillo-month\
+• April: 2/57 = 0.035 cases per armadillo-month\
+• May: 0/55 = 0 cases per armadillo-month\
+• June: 3/55 = 0.055 cases per armadillo-month\
+• July: 5/52 = 0.096 cases per armadillo-month
+
+\
+b. Which month had the highest prevalence? Which month had the lowest prevalence? Show your calculations and state the units. (5 points)
+
+• March: 3/60 = 0.050 = 5%\
+• April: 5/60 = 0.083 = 8.3%\
+• May: 5/60 = 0.083 = 8.3%\
+• June: 8/60 = 0.133 = 13.3%\
+• July: 13/60 = 0.217 = 21.7%
+
+Month with highest prevalence: July
+
+Month with lowest prevalence: March
+
+\_\_
+
+5\. A beaver carcass was found at the Gunnison River Whitewater Park, Gunnison, Colorado in October 2025. Samples collected during the postmortem examination were submitted to the Veterinary Diagnostic Lab. The lab reported that the animal was positive for Tularemia.\
+
+a\. Name the etiological agent of this disease. What subspecies of this agent causes Tularemia in aquatic animals like beavers? (2 points)
+
+Tularemia is caused by Francisella tularensis. F. tularensis subspecies holartica (Type B) causes Tularemia in aquatic animals like beavers.
+
+\
+b. What are the different routes of transmission for this agent? (2 points)
+
+There are a few transmission routes for F. tularensis. Humans can get infected with this bacteria through direct contact with an infected animal like a wild rabbit or rodent. F. tularensis can also be transmitted through various vectors. Type A can be transmitted through ticks and flies, and Type B can also be transmitted through mosquitoes. Water may also be contaminated with the bacteria, so a person can get infected from consuming contaminated water. There is also a possibility of aerosolization with the pathogen, so the bacteria can be transmitted through inhalation through air and dust as well.
+
+\
+c. Describe key features/characteristics of this pathogen in the context of human health/public health. (3 points)
+
+F. tularensis is a human health threat. The bacteria is highly infectious, can aerosolize, and can be transmitted through multiple vectors. Although humans are dead-end hosts and human-to-human cases have not been reported, humans are still susceptible to this pathogen. Humans can develop various diseases from this pathogen, like oropharyngeal tularemia and skin ulcers. Pathogens with the ability to aerosolize are always pose a threat and concern, but the highly infectious nature of the pathogen also makes the bacteria a viable bioterrorism weapon.
+
+This pathogen can also infect various animals from wild rabbits to rodents, to domestic dogs and cats. The ability to infect multiple host species and transmission through various vectors makes the pathogen a public health threat that is difficult to address with so many transmission routes. The bacteria is a threat to wild animal populations with smaller animals dying in 8 to 14 days in many cases.\
+\_\_
+
+6\. [Match the following. (5 points)]{.underline}\
+**1. Powassan encephalitis**
+
+**2. Ophidiomyces ophiodiicola**
+
+**3. Borrelia burgdorferi**
+
+**4. Aetokthonotoxin**
+
+**5. Pseudogymnoascus destructans**
+
+**6. African Swine Fever**
+
+a\. Fungal pathogen of conservation concern - **2. Ophidiomyces ophiodiicola, 5. Pseudogymnoascus destructans**
+
+b\. Avian Vacuolar Myelinopathy - **4. Aetokthonotoxin**
+
+c\. Tick-transmitted viral disease - **1. Powassan encephalitis**
+
+d\. Foreign Animal Disease - **6. African Swine Fever**
+
+e\. Bell’s palsy, Bulls-eye rash - **3. Borrelia burgdorferi**
+
+\_\_
+
+7\. [Refer to the life cycle of blacklegged tick to answer 7a – 7d. (8 points)]{.underline}\
+a. The two stages of blacklegged tick that can potentially transmit Lyme disease to humans are: [**nymph**]{.underline} and [**adult**]{.underline}.
+
+b\. Preferred hosts of the larval stage of Ixodes scapularis are: [**small mammals**]{.underline} and [**birds**]{.underline}.
+
+c\. Lyme disease risk posed by host-seeking nymphs of I. scapularis is greatest during [**summer/May-July**]{.underline} (season/months) while Lyme disease risk posed by host-seeking adults is greatest during [**fall/October-December**]{.underline} (season/months).
+
+d\. The natural reservoir and competent hosts of Borrelia burgdorferi in North America: [**white-footed mice**]{.underline}. White-tailed deer are the [**definitive hosts**]{.underline} in the Lyme disease system.
+
+\_\_
+
+8\. Georgia has a white-tailed deer population of \~ 1 million. A total of 1351 samples from hunter-harvested deer were tested for Chronic Wasting Disease in 2022. None of the samples tested positive for CWD. Using the hypergeometric distribution, Georgia DNR determines that CWD is not present above 0.2% prevalence in Georgia’s white-tailed deer population. You are asked to comment on Georgia DNR’s CWD surveillance approach. In your commentary, explain the downside of using hypergeometric distribution for making decisions about wildlife disease surveillance. (10 points)
+
+The statement is not unreasonable, but the population would have to align with the assumptions of hypergeometric distribution. This means the sample population was sampled randomly, sensitivity is accurate, and there was no strong spatial clustering. These assumptions are the downside to using hypergeometric distribution for management decisions. Given that samples are from hunter-harvested deer, it is unlikely and hard to determine that the sample is completely random (age, sex, geography, etc.), sensitivty was accurate (no test is 100% or room for human error), or that there was no significant spatial clustering. No significant spatial clustering is unlikely given the nature of the disease. As a prion disease, a major route of transmission is exposure to contaminated soil, an infected carcass, etc. This makes spread more localized to a geographic area, unless say a carcass was transported by humans and disease spread that way.
+
+\_\_
+
+9\. Place the following diseases in appropriate quadrants in the above figure. Explain your choice of quadrants. (10 points)
+
+1\. SARS-CoV-2 - top left, case 4 of community–epidemiology continuum, potential emerging infectious diease
+
+SARS-CoV-2 is a potential emerging infectious disease because the virus has high within-species transmission but low between-species transmission. Although between-species transmission is low, the high within-species transmission means the virus has the potential to reach epidemic levels, like the SARS-CoV outbreak in 2002.
+
+2\. Hantavirus Pulmonary Syndrome - bottom left, case 1 of community–epidemiology continuum, spillover
+
+Hantavirus Pulmonary Syndrome (HPS) is a spillover disease because the virus has low between-species transmission and low within-species transmission. The reservoir for HPS is deer mice or rodents in general. There is low transmission between deer mice and humans, and the virus is not sustained within the human population. HPS is not contagious from human–to-human, and the virus can be fatal. Therefore, the virus is spillover with humans being dead-end hosts.
+
+3\. Langya Henipavirus - bottom left, case 1 of community–epidemiology continuum, spillover
+
+Langya Henipavirus (LayV) is a spillover disease because the virus has low between-species transmission and low within-species transmission. LayV has not had any evidence of human–to-human transmission, so the virus is spillover with humans being dead-end hosts. There has not been additional human cases reported since the 2022 outbreak faded out.
+
+4\. Brucellosis - top right, case 3 of community–epidemiology continuum, true multihost pathogen
+
+Brucellosis is a true multihost pathogen because the pathogen has high between-species transmission and high within-species transmission. Within the Greater Yellowstone Ecosystem (GYE), brucellosis is maintained within both bison and elk species and can be transmitted between the two species.
+
+5\. West Nile virus - bottom left, case 1 of community–epidemiology continuum, spillover
+
+In humans, West Nile virus (WNV) is a spillover disease because the virus has low between-species transmission and low within-species transmission. WNV is maintained through a bird-mosquito vector cycle. When an infected mosquito feeds on a human instead of a bird, humans and other mammals get infected and are dead end hosts for the virus because viremia is not sufficient to maintain the transmission cycle.
+
+\_\_
+
+10\. Anisakiasis is the disease caused by infection with the stomach worm Anisakis simplex. It reaches sexual maturity and reproduces in marine mammals. In the following figure, identify the definitive host, a dead-end host, a paratenic host, and an intermediate host. Explain your answers. (8 points)
+
+Marine animals, like the dolphin in the figure, is the definitive host where the stomach worm Anisakis simplex reaches sexual maturity and reproduces. Eggs get released into the ocean and mature into larvae. Crustaceans, which are the intermediate host, consume the larvae. Marine animals that consume the crustaceans get infected, and the stomach worm is able to mature and reproduce. The cycle repeats. Sometimes a seafish or a cephalopod will consume an infected crustacean instead of a marine animal, and seafishes/cephalopods are paratenic hosts which harbor the parasite alive without the parasite developing further or reproducing. Then, a marine animal with consume the infected seafish or cephalopod, and the cycle will repeat. Occasionally, humans will eat raw or undercooked infected fish and get infected. The larvae cannot develop further or reproduce in humans, so the humans are dead-end hosts. This leads to anisakiasis.
+
+\_\_
+
+11\. All infected hosts are diseased. Comment using appropriate examples. (3 points)
+
+The statement that all infected hosts are diseased is not a correct statement. An organism might be infected with a bacteria, virus, etc. but not show signs of disease. This is often the case with reservoir hosts. For example, white-footed mice are the reservoirs for Borrelia burgdorferi, and white-footed mice do not show signs of disease with the bacteria. Another example that is slightly different is the Saiga antelope bacteria. Pasteurella multocida is naturally occuring in Saiga antelope, but a harmless bacteria became pathogenic under certain condition temperature and humidity conditions. Reservoir hosts are not the only hosts that do not experience disease when infected. For example, shrews are the reservoir hosts for LayV, but goats and dogs testing positive also did not exhibit any clinical signs from the virus.
+
+\_\_
+
+12\. Klepac et al. estimated an R0 of 2.5 for the 2002 Phocine Distemper virus epidemic in Dutch harbor seals. Assuming that an effective PDV vaccine is available, what proportion of the seal population should be vaccinated to prevent a future outbreak of PDV? (3 points)
+
+Vc: 1 - (1/R0) = 1 - (1/2.5) = 0.6 = 60% of the population should be vaccinated to prevent a future outbreak of PDV.
+
+\_\_\
+13. What are some of the main challenges in managing wildlife diseases? Explain using relevant examples. (6 points)
+
+There are various challenges that come with managing wildlife diseases. Many wildlife diseases are difficult to address because of the population size and habitat scope of hosts. For example, raccoon rabies is a public health concern because the virus can infect multiple host species, including humans. The entire raccoon population cannot be vaccinated through injections nor can the other wildlife species susceptible to infect. Raccoon rabies can be difficult because of the scope of the eastern US raccons inhabit, but habitat can also be a challenge in the remoteness of habitats, like the caves of bats and management of white-nose syndrome.
+
+The disease is managed relatively well in the eastern US with bait vaccines dropped in Appalachia, but there is major public health concern for what could happen if raccoon rabies spreads widely past Appalachia given the various species that can be infected. Although raccoon rabies has a management method, vaccines in general and specifically bait vaccines are often not available for wildlife diseases which is another challenge in addition to the inability to address entire populations or habitat scopes. There are often limited management methods to address wildlife disease whether that is a vaccine or any other management strategies.
+
+Surveillance and detection of wildlife diseases is also difficult. For example, chronic wasting disease (CWD) is specifically difficult to have accurate surveillance and can be difficult to detect because the disease has a longer incubation period (\>16 months).
+
+Wildlife diseases are also difficult to manage because diseases are often not limited to wildlife. Many pathogens have the ability to infect more than one host species, but pathogens also do not differentiate wild and domestic animals. Canine rabies in Africa being transmitted between jackals and dogs is a clear example of how wildlife disease are difficult to manage as wildlife, domestic animals, and humans come into contact more. This also poses a serious threat to the potential for emerging infectious diseases with how pathogens adapt.
+
+CWD is also an example of how politics can be a challenge with managing wildlife diseases. Management of CWD includes human interests through the involvement of hunters and fenced deer facilities. White-tailed deer are key to a large industry, and the implication can be less effective management when balancing stakeholder interests.
